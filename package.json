@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/nodemailer": "^7.0.1",
+    "bcryptjs": "^3.0.2",
     "mongoose": "^8.18.1",
     "next": "15.5.3",
     "nodemailer": "^7.0.6",
